@@ -4,7 +4,7 @@
 
 
 const main = (i) => {
- for (a=0; a<i1; a++) {
+ for (a=0; a<i; a++) {
    var types = [];
    if (odd(c)==true) {
      types.push("odd")
